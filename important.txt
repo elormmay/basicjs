@@ -1,0 +1,31 @@
+--- stuff to learn before learning react --
+
+Javascript Fundamentals - 1:39
+Modules - 2:50
+Classes - 4:00
+Arrow functions - 4:50
+Promises / Asynchronus requests - 5:05
+Destructuring - 6:20
+Concept of components & state - 7:30
+Spread operator - 10:50
+High order array functions - 11:49
+
+
+
+--- advance javascript --- 
+
+1. Scope - 00:00
+2. Advanced Control Flow - 10:25
+3. ES5 and ES6 - 22:06
+4. Advanced Functions - 48:48
+5. Advanced Arrays - 01:08:53
+6. Advanced Objects - 01:25:33
+7. Pass By Value vs Pass By Reference - 01:50:24
+8. Type Coercion - 02:07:30
+9. ES7 (ES2016) - 02:16:32
+10 ES8 (ES2017) - 02:19:08
+11. ES10 (ES2019) - 02:28:27
+12. Advanced Loops - 02:45:16
+13. Debugging - 02:57:20
+14. How Javascript Works - 03:05:43
+15. Modules - 03:29:55
